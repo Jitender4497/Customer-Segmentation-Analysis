@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# Data files (optional - remove if you want to upload)
+data/*.xlsx
+
+# Output files (optional)
+output/*.csv
+
+# Mac / system files
+.DS_Store
